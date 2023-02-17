@@ -18,7 +18,10 @@ public class App {
 		// Saludo.
 		System.out.println("Hola NTT Data");
 		System.out.println("Hola Rama A");
+
 		System.out.println("Hola CONFLICTO SOY RAMA MASTER");
+		System.out.println("Hola Rama B CONFLICTOS NO");
+
 	}
 
 }
