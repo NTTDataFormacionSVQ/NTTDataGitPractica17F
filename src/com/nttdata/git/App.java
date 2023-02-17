@@ -1,7 +1,7 @@
 package com.nttdata.git;
 
 /**
- * Formación de GIT
+ * Formacion de GIT
  * 
  * @author NTT Data
  *
@@ -9,7 +9,7 @@ package com.nttdata.git;
 public class App {
 
 	/**
-	 * Método principal
+	 * Metodo principal
 	 * 
 	 * @param args
 	 */
@@ -21,6 +21,8 @@ public class App {
 
 		System.out.println("Hola CONFLICTO SOY RAMA MASTER");
 		System.out.println("Hola Rama B CONFLICTOS NO");
+		
+		System.out.println("Hola repo local cambio desde GitHub");
 
 	}
 
